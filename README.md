@@ -3,8 +3,6 @@
 ### ㅁㄴㅇㄴㅁㅇㄴㅁㄴ
 #### ㅁㄴㅇㅁㄴㅇㄴㅁ
 
-![Uploading 1.GIF…]()
-![Uploading 1.GIF…]()
 ![Uploading 캡처.PNG…]()
 
 ``` bash asdasdsadsa
