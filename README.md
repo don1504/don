@@ -3,6 +3,4 @@
 ### ㅁㄴㅇㄴㅁㅇㄴㅁㄴ
 #### ㅁㄴㅇㅁㄴㅇㄴㅁ
 
-
-![Uploading 1.PNG…]()
 ![Uploading 1.GIF…]()
